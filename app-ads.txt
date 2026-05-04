@@ -1,3 +1,4 @@
+google.com, pub-6485839283816071, DIRECT, f08c47fec0942fa0
 #Amobear-Start
 google.com, pub-1932904583211332, DIRECT, f08c47fec0942fa0
 #Amobear-End
